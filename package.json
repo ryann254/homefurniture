@@ -1,0 +1,15 @@
+{
+  "name": "homefurniture",
+  "version": "1.0.0",
+  "description": "Home Furniture and Accessories",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Ryan Njoroge",
+  "homepage": "https://ryann254.github.io/homefurniture",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
